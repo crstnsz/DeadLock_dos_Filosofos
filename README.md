@@ -1,8 +1,8 @@
 Dining philosophers problem
 ---------------------------
 
-No código deste repositório fiz uma solução para o problema de sistemas operacionais, envolvendo processos, conhecido como o jantar dos filósofos, além disso tem uma explanação e análise a se verificar, veja a seguir.
+No cÃ³digo deste repositÃ³rio fiz uma soluÃ§Ã£o para o problema de sistemas operacionais, envolvendo processos, conhecido como o jantar dos filÃ³sofos, alÃ©m disso tem uma explanaÃ§Ã£o e anÃ¡lise a se verificar, veja a seguir.
 
-"Demonstrar a ocorrencia de deadlock atraves da implementação do banquete dos filósofos. Cada filósofo aguarda um tempo aleatório entre 1 e 10 ms para tentar começar a comer, cada filósofo tenta primeiro pegar o garfo a sua direita e depois o garfo a sua esquerda, e cada filósofo comerá por um tempo aleatório, entre 50 e 100 ms, depois deve liberar seus garfos e o ciclo se repete. Implemento aqui um programa para um número n de filósofos (n <= 5). Verifique a ocorrencia de deadlock na amostragem."
+"Demonstrar a ocorrencia de deadlock atraves da implementaÃ§Ã£o do banquete dos filÃ³sofos. Cada filÃ³sofo aguarda um tempo aleatÃ³rio entre 1 e 10 ms para tentar comeÃ§ar a comer, cada filÃ³sofo tenta primeiro pegar o garfo a sua direita e depois o garfo a sua esquerda, e cada filÃ³sofo comerÃ¡ por um tempo aleatÃ³rio, entre 50 e 100 ms, depois deve liberar seus garfos e o ciclo se repete. Implemento aqui um programa para um nÃºmero n de filÃ³sofos (n <= 5). Verifique a ocorrencia de deadlock na amostragem."
 
-Veja mais informações aqui http://pt.wikipedia.org/wiki/Deadlock
+Veja mais informaÃ§Ãµes aqui https://en.wikipedia.org/wiki/Dining_philosophers_problem
